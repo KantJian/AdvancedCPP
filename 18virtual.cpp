@@ -15,12 +15,6 @@ class FHello1:public FHello
 private:
     int a;
 };
-
-
-
-
-
-
 int main(){
     FHello1 o;
     int len=sizeof(o);
